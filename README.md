@@ -1,1 +1,2 @@
 # Skin-Care-Recommendation-System-Based-on-given-User-Image
+• The main objective is to recommend skin care products to the users based on the user's complexion, skin type, and pimples/acne-prone skin. • Image is provided by the user and using deep learning required features like complexion and presence or absence of pimples/acne are extracted from the image and the products are recommended. • Key Skills: CNN, Transfer Learning(VGG16), Popularity-based Recommendation, Flask(deployment), Web Scraping (for images)
